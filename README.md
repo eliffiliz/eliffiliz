@@ -73,8 +73,8 @@ I have experience combining **deep learning models** with **classical methods** 
 
 ## 📫 Contact
 
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/elif-filiz-904659254/](https://www.linkedin.com/in/elif-filiz-904659254/)
-* 💼 **GitHub:** [https://github.com/USERNAME](https://github.com/eliffiliz)
+* 🔗 **LinkedIn:** [(https://www.linkedin.com/in/elif-filiz/)](https://www.linkedin.com/in/elif-filiz/)
+* 💼 **GitHub:** [https://github.com/eliffiliz](https://github.com/eliffiliz)
 
 ---
 
